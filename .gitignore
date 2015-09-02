@@ -1,0 +1,7 @@
+dist/
+SoA.egg-info/
+build/
+dist/
+soa_env/
+.idea/
+
