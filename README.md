@@ -47,7 +47,7 @@ For example,
             ["aa", "xx", "cc"],
         ]
     }
-    ```
+```
     
 ## how to use
 
